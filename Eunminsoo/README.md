@@ -1,6 +1,6 @@
 # eun minsoo
 
-## 1. Featuer 브랜치
+## 1. Feature 브랜치
 
 ## 2. Develop 브랜치
 
