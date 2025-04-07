@@ -1,4 +1,4 @@
-# Jeong Yoonseo  (ID: Rumyakun)
+# 202102704 정윤서  (ID: Rumyakun)
 
 1. Feature 브랜치
 2. Main 브랜치
