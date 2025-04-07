@@ -1,5 +1,5 @@
 # YuHyeon1
 
-1. develop
-2. release
+1. release
+2. develop
 3. hotfixes
